@@ -1,0 +1,46 @@
+.content-section-1-head {
+    font-size: 35px;
+    color: #c3d0e5;
+    font-weight: 900;
+}
+
+.content-section-1-desc {
+    width: 450px;
+    color: #9fb1d1;
+    font-size: 20px;
+}
+
+.content-section-1-link {
+    color: #4daafc;
+    font-size: 20px;
+}
+
+.content-section-1 {
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    justify-content: space-evenly;
+}
+
+.content {
+    width: 1350px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 50px;
+}
+
+
+.content-section-2 {
+    width: 750px;
+}
+
+.content-section-2 img {
+    width: 100%;
+}
+
+a:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    scrollbar-width: none;
+    box-sizing: border-box;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+body {
+    background-color: #0d1117;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

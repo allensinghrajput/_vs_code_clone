@@ -1,0 +1,30 @@
+.footer {
+    height: 300px;
+    width: 100vw;
+    display: block;
+    padding: 100px;
+}
+
+
+
+.footer-icons-img {
+    height: 30px;
+    margin: 20px;
+}
+
+.footer-icons-img-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.footer-links-a {
+    color: #9fb1d1;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.footer-links {
+    margin-top: 20px;
+}
